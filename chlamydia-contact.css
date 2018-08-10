@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+h1{color:blue;
+    font-family: cursive;
+    text-align:center;
+}
+h2{
+    color:black;
+    font-family: cursive
+}
+h3{
+    color:white;
+    font-family: cursive
+}
+
+img{
+    width:500px;  
+}
+nav{
+    display: block;
+    width:500px;
+    height: 30px;
+    background-color:black;
+    }
+p{
+    color: white;
+}
+#chlamydia{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
